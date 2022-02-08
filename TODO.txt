@@ -1,0 +1,8 @@
+TODO:
+
+fixes:
+
+implement:
+- We must check that the word entered exists in the english dictionary. (I think I used enchant for that)
+-Words entered must be of length 6
+-GUI Implementation
